@@ -1,0 +1,3 @@
+C:/Users/Admin/CLionProjects/atv2-PPD/cmake-build-debug/CMakeFiles/atv2_PPD.dir
+C:/Users/Admin/CLionProjects/atv2-PPD/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Admin/CLionProjects/atv2-PPD/cmake-build-debug/CMakeFiles/rebuild_cache.dir
